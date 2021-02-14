@@ -1,0 +1,1 @@
+# This file only exists to stop rustfmt from searching for a rustfmt.toml outside the repo (e.g. from rust-lang/rust where stdarch is a submodule).
